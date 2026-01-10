@@ -1,11 +1,10 @@
 # MonteCarloSimulation-FCT
 A report for FCT, evaluating the costs and emissions of the charity running on biofuel alternatives to diesel.
 ## Overview
-This repository contains a Monte Carlo simulation developed as part of a university project.
+This repository contains a Monte Carlo simulation developed as part of an independent research for a university project.
+The outline in general for the project was to produce a piece of work useful to FCT.
+
 The goal of the project is to model and analyze the cost and emissions of FCT running on biofuel alternatives to Diesel.
-
-
-The project was done with complete freedom and choice of project, its only need was to be related to Fermangh Community Transport.
 
 
 ## Project Structure
